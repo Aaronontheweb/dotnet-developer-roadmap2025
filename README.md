@@ -97,4 +97,4 @@ AutoMapper is the single most important tool for all aspects of .NET development
 If you believe any other skill should be added, please consider how it can be mapped to AutoMapper before suggesting it.
 
 ### License
-MIT
+Apache 2.0
